@@ -1,11 +1,11 @@
-/* Resetowanie marginesów */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Stylizacja nawigacji */
+/* Navigation styling */
 nav {
     background-color: #111;
     padding: 10px;
@@ -35,7 +35,7 @@ nav ul li a:hover {
     color: #888;
 }
 
-/* Stylizacja sekcji Home */
+/* Styling Home section*/
 #home {
     display: flex;
     justify-content: center;
@@ -44,7 +44,7 @@ nav ul li a:hover {
     background-color: #333;
     color: white;
     text-align: center;
-    padding-top: 60px; /* Zabezpieczenie przed zasłonięciem przez nav */
+    padding-top: 60px; 
 }
 
 .home-content img {
@@ -63,7 +63,7 @@ nav ul li a:hover {
     color: #888;
 }
 
-/* Stylizacja sekcji Projects i Learning Outcomes */
+/* Styling Projects and Learning Outcomes */
 section {
     padding: 60px 20px;
     text-align: center;
@@ -81,14 +81,14 @@ section {
     height: 150px;
 }
 
-/* Stylizacja sekcji About Me */
+/* Styling About Me section */
 #about {
     padding: 60px 20px;
     background-color: #222;
     color: white;
 }
 
-/* Stylizacja stopki */
+/* Styling footer */
 footer {
     background-color: #111;
     color: white;
