@@ -50,7 +50,7 @@ nav ul li a:hover {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('floral_pattern.jpg');
+    background-image: url('background.png');
     background-size: cover; 
     background-position: center;
     color: white;
