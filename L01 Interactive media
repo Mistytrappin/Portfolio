@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="Learning_outcome.css">
+</head>
+<body>
+    <div class="nav">
+        <a href="#">Interactive media products</a>
+        <a href="#">Development & version control</a>
+        <a href="#">Iterative design</a>
+        <a href="#">Professional standard</a>
+        <a href="#">Personal leadership</a>
+    </div>
+
+    <div class="container">
+        <h1>Interactive media products</h1>
+        <div class="section">
+            <h2>Websites / Applications </h2>
+            <p><strong>Figma:</strong> Helped me design website layouts, create prototypes, and make mood boards, which improved my skills in planning and presenting visual ideas. (Website design, creating prototypes, moodboards.)</p>
+            
+            <p><strong>Youtube:</strong> Gave me access to lots of tutorials and courses, helping me learn HTML, CSS, and JavaScript quickly through practical examples. (Courses, Tutorials, Learning HTML/CSS/JavaScript)</p>
+            
+            <p><strong>Codeacademy:</strong> The front-end course on Codecademy provided well-organized lessons, projects, and quizzes that helped me understand the basics of web development. (I bought a full front-end designer course / Learning HTML/CSS/JavaScript)</p>
+
+            <div class="images">
+                <img src="Codeacademy.jpg" alt="Codeacademy">
+            </div>
+
+            <p><strong>GitHub:</strong> I started to use GIT after the first portfolio review. I use it to have control over all of the versions of my code.</p>
+            <p>Github link:</p><a id="link" href="https://github.com/Mistytrappin/Portfolio"><bold>Click here</bold></a> 
+
+            <p><strong>Chat Gpt:</strong>  helped me fix grammar and sentence structure mistakes, and I use it to learn how to add new features to my website.</p>
+
+            <p><strong>Notion:</strong>  is where I store all the evidence for my portfolio, keeping everything organized and easy to access.</p>
+            <div class="images">
+                <img src="notion_screen.jpg" alt="Notion">
+            </div>
+            <h2>Forms</h2>
+            <p>I created a contact form for my portfolio and noticed how recent trends in digital experience design influence this process. It's essential to apply modern design principles to ensure the form is user-friendly, efficient, and secure.
+                While exploring digital experience design, I saw how online forms are changing with new trends. Their convenience and efficiency make them more popular than traditional paper forms. People prefer them because they are easy to use and allow for quick information processing, making them a key trend in data collection and user engagement.</p>
+                
+                <p><bold>Styling forms that I created :</bold></p>
+                
+                <div class="images">
+                    <img src="form (1).jpg" alt="form">
+                    <img src="After Form (1).jpg" alt="form"></div>
+        
+                <p> <strong>Reflection: </strong> For my portfolio, I used resources like YouTube and W3Schools, which helped me understand form creation and current design trends. This experience not only improved my skills for this project but also gave me insights I can use in the future. With this knowledge, I can create more advanced and user-friendly forms as I continue to develop my web skills. </p>
+                <h3>Links: </h3>
+                
+                <p>Youtube tutorial (forms) 1:</p><a id="link" href="https://www.youtube.com/watch?v=2O8pkybH6po"><bold>Click here</bold></a>
+                
+                <p>Youtube tutorial (forms) 2:</p><a id="link" href="https://www.youtube.com/watch?v=8yrTnjo0TWw"><bold>Click here</bold></a>
+                
+                <p>Tutorial (forms) 3:</p><a id="link" href="https://www.optimonk.com/website-contact-form-examples/"><bold>Click here</bold></a>
+
+                <p>W3Schools tutorial:</p><a id="link" href="https://www.w3schools.com/html/html_forms.asp"><bold>Click here</bold></a>
+
+                <p>Github link:</p><a id="link" href="https://github.com/Mistytrappin/Portfolio"><bold>Click here</bold></a>
+
+                    <h2>Using github</h2>
+                    <p>Git hub is now essential in the tech industry for keeping your code under control. By using GitHub, I can easily share my work, get feedback, and keep track of my progress.
+
+                        In today’s fast-paced development environment, knowing how to use GitHub is a valuable skill. It not only helps in maintaining organized code but also enhances teamwork and communication.  
+                        That’s why I decided to learn how to use it. For this purpose I used Youtube tutorial:</p>
+                    <p> <strong> Github tutorial link: </strong> </p> <a id="link" href="https://www.youtube.com/watch?v=iv8rSLsi1xo&t=3s"><bold>Click here</bold></a></div>
+                
+                <div class="section">
+                <h2>Grid<h2>
+                   <h3>Research on Design Trends: Choosing Grid Layout</h3>
+                    <p>In the past years, I started to see grid layout more often on the websites. To align with modern standards, I conducted research that highlights its popularity.
+                     I found several valuable resources on grid design, including:
+                        CSS-Tricks: Their comprehensive guide on CSS Grid Layout offers detailed examples and techniques for creating responsive layouts.
+                        A List Apart: This platform discusses responsive web design and how grid layouts contribute to enhancing user experience across various devices. Based on my findings, I have decided to incorporate a grid layout into my portfolio to ensure a modern, organized, and visually appealing presentation of my work.</p>
+
+                        <p><strong>I also watched some videos about creating grid layouts:</p></strong><a id="link" href="https://www.youtube.com/watch?v=wIabVp0Hh8U&t=2s"><bold>Video 1</bold></a>
+                        <a id="link" href="https://www.youtube.com/watch?v=jV8B24rSN5o"><bold>Video 2</bold></a>
+                        <br>
+                        <br>
+                        <div class="images">
+                        <img src="grid design 1 (1).jpg" alt="grid 1">
+                        <p><strong>This is the first version of the grid layout that I created on my portfolio website.</strong></p>
+                        <br>
+                        <img src="grid design 1 (2).jpg" alt="grid 2">
+                        <p><strong>In this version I applied what I learned about the grid layout and adjusted information about each project that I’m working on this semester. I also adjusted the learning outcomes.</strong></p>
+                        </div>
+                    </div>
+                        
+                        
+                    
+
+        <div class="section">
+            <h2>Research and ideas:</h2>
+            <p> I conducted the necessary research for creating slogans and advertising taglines, as well as for developing a marketing campaign centered around outside climbing (bouldering). I also put forward promotional strategies for Monk’s media campaign, including suggestions such as ads, boosting posts, and creating Instagram Reels, TikTok ads, and collaborations or sponsorships with influencers in the bouldering community who could promote the brand. Furthermore, I proposed building a network of Monk Shop brand ambassadors from smaller creators, who would produce content related to the equipment available at Monk Shop.</p>
+            <p><strong>I also created questions that we used in interview and survey for monk:</strong></p>
+            <div class="images">
+                <img src="Questions bouldering with sources (monk) .png" alt="monk questions">
+                <img src="Monk questions (1).png" alt="monk 2">
+                <p><strong>Promotional strategy for monk's media campaign</strong></p>
+                <img src="questions v2 .png" alt="monk 3">
+                <p><strong>a research about the outdoor climbing.</strong></p>
+            </div>
+            <p class="reflection"><strong>Reflection: </strong> Consistently leaving comments about the changes I made helped our team to keep transparency and good collaboration. I ensured that everyone was on the same page, reducing misunderstandings and improving our workflow.</p>
+            <p class="learning"><strong>What I learned: </strong> From this experience, I learned that clear communication and detailed documentation are really important. These practices are needed for effective teamwork and project management.</p>
+        </div>
+
+        <div class="section">
+            <h2>Contribution in group projects:</h2>
+            <p><strong>Slides about fonts and prototypes that I created</strong></p>
+            <div class="images">
+                <img src="Proof of contributing into the presentation 2 (blik).jpg" alt="monk questions">
+                <img src="proof of contributing into making a presentation (blik).jpg" alt="monk 2">
+                <img src="media strategy contribution (1).png" alt="monk 3">
+                <p><strong>Marketing strategy ideas that I created: Tiktok, Meta, Google ads. Post promotion.</strong></p>
+                <img src="questions.png" alt="monk 3">
+                <p><strong>Questions for TikTok concept (monk quiz).</strong></p>
+                <br>
+                <img src="partnership influ (1).png" alt="monk 3">
+                <p><strong>I came up with the idea to create monk shop ambassadors with small accounts, that will create content related to outdoor climbing and climbing gear. Partnership with popular bouldering influencer.</strong></p>
+                <img src="Creating customer journey.png" alt="monk 3">
+                <p><strong>I created customer journey for monk</strong></p>
+                <img src="Customer journey (I made for monk).png" alt="monk 3">
+                <p><strong>Finished customer journey.</strong></p>
+                <img src="concepts presentation finished (i made).png" alt="monk 3">
+                <p><strong>I created a slide for the Monk final presentation, about TikTok concepts that I made for the project.</strong></p>
+
+                <h2>I also used chat gpt 4 in this project:</h2>
+                <p>Sometimes, I use this tool to find inspiration, but primarily to organize my ideas and improve my phrasing. Since I've been diagnosed with ADHD, I find this tool helpful for fixing my grammar mistakes and managing my flow of ideas, as well as for choosing better words to fully express what I mean. I also sometimes find it easier to describe something in Polish.
+                For example:
+                *Original Prompt I used in ChatGPT*: **Przetłumacz i popraw błędy gramatyczne oraz składniowe:** Znalazłem tło złożone z wzoru fleur de lis na Adobe Stock. Użyłem go, ale zauważyłem, że nie pasuje i ma znak wodny. Postanowiłem zaprojektować własne tło na Canvie, aby było bardziej osobiste i zgodne z moją koncepcją. Uważam, że ważne jest, aby w tej branży wyróżniać się i być wyjątkowym specjalistą.
+                *Translated Prompt*: Translate and correct grammatical and syntax errors: I found a background with a fleur de lis pattern on Adobe Stock. I used it but noticed it didn’t quite fit and that it had a watermark. I decided to design my own background on Canva to make it more personal and better aligned with my concept. I think it’s important in this industry to stand out and be a unique professional.</p>
+</body>
+</html>
