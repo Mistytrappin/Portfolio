@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <title>Mi$ty - Official Page</title>
+    <link rel="stylesheet" href="project X.css">
+</head>
+<body>
+    <header>
+        <h1>Mi$ty</h1>
+        <nav>
+            <a href="project x page.html">Home</a>
+            <a href="Rap page.html">Rap</a>
+            <a href="">Beats</a>
+            <a href="Videos page.html">Videos</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <div class="content">
+        <br>
+        <h1>Hello, my name is Maks Mistewicz, but they call me Mi$ty.</h1>
+        <br>
+        
+        <p>I've been diving deep into my creative process, crafting new music that's pushing the boundaries of sound. My latest project, 'Panorama Snów' (which translates to 'Panorama of Dreams' in Polish), is an exploration of where house music meets the raw energy of rap.
+
+            Imagine a sonic journey through a late-night cityscape, bathed in neon hues. That's the vibe I'm going for. 'Panorama Snów' features a blend of moody, atmospheric house melodies, punctuated by rhythmic, introspective rap verses. Deep, pulsating basslines provide the foundation, while the flow of the rap adds a layer of narrative and emotional depth.</p>
+       </div>
+        <div class="news">
+            <div class="arrows" onclick="previousNews()">&#9664;</div>
+            <img src="misty bmw photo.png" alt="News">
+            <div class="arrows" onclick="nextNews()">&#9654;</div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <h2>Links to social media</h2>
+
+    <nav>
+    <a href="https://open.spotify.com/artist/5yeYdxxjlUwU4fa3bHXKxy">Spotify</a>
+    <a href="https://www.youtube.com/watch?v=XgfBIqLEboI">Youtube</a>
+    </nav>
+    <footer>
+        <p>&copy; 2025 Mi$ty. All rights reserved.</p>
+    </footer>
+
+    <script>
+        let currentNewsIndex = 0;
+        const newsImages = [
+            "misty bmw photo.png",
+            "kanal.jpg",
+            "https://via.placeholder.com/300/222"
+        ];
+
+        function updateNews() {
+            const imgElement = document.querySelector(".news img");
+            imgElement.src = newsImages[currentNewsIndex];
+        }
+
+        function nextNews() {
+            currentNewsIndex = (currentNewsIndex + 1) % newsImages.length;
+            updateNews();
+        }
+
+        function previousNews() {
+            currentNewsIndex = (currentNewsIndex - 1 + newsImages.length) % newsImages.length;
+            updateNews();
+        }
+    </script>
+</body>
+</html>
